@@ -1,0 +1,337 @@
+{MES:0057}{STR}
+It's locked.
+{/STR:END}{@:0000}{STR}
+It's unlocked.
+{/STR:END}{@:0001}{STR}
+The lock is broken.
+I can't open the door.
+{/STR:END}{@:0002}{STR}
+The door's shut tight.
+It won't open at all.
+{/STR:END}{@:0003}{STR}
+It doesn't even look like this
+door will open. Never mind.
+{/STR:END}{@:0004}{STR}
+No matter how much I try to force
+it, the door won't open. Never mind.
+{/STR:END}{@:0005}{STR}
+It's too dark to read the map.
+{/STR:END}{@:0006}{STR}
+I don't have a map of this area.
+{/STR:END}{@:0007}{STR}
+I've seen this pattern somewhere.
+And not just now, either.
+{/STR:NEXT}{STR}
+A long time ago...when was it?
+And where?
+{/STR:NEXT}{STR}
+And...why does my head hurt so
+much when I try to remember it?
+{/STR:END}{@:0008}{STR}
+It's like a magic circle I remember
+reading about in a book on black
+magic.
+{/STR:NEXT}{STR}
+Does it seem so familiar because
+I read about it in that book?
+{/STR:NEXT}{STR}
+No, that's not it.... It's not the
+book... It's from the altar......
+{/STR:NEXT}{STR}
+Altar? What am I thinking?
+{/STR:END}{@:0009}{STR}
+This again....
+{/STR:NEXT}{STR}
+Looking at it makes my head hurt,
+but at the same time, it's like,
+so familiar....
+{/STR:NEXT}{STR}
+I know I've forgotten something
+really important.....
+{/STR:NEXT}{STR}
+But I also have the feeling that I'd
+be better off not remembering it.
+{/STR:END}{@:000A}{STR}
+I got a {GREEN}stun gun battery{WHITE}.
+{/STR:END}{@:000B}{STR}
+I got {GREEN}handgun bullets{WHITE}.
+{/STR:END}{@:000C}{STR}
+I got {GREEN}shotgun shells{WHITE}.
+{/STR:END}{@:000D}{STR}
+I got {GREEN}submachine gun bullets{WHITE}.
+{/STR:END}{@:000E}{STR}
+I got a {GREEN}health drink{WHITE}.
+{/STR:END}{@:000F}{STR}
+I got a {GREEN}first-aid kit{WHITE}.
+{/STR:END}{@:0010}{STR}
+I got an {GREEN}ampoule{WHITE}.
+{/STR:END}{@:0011}{STR}
+I got {GREEN}beef jerky{WHITE}.
+{/STR:END}{@:0012}{STR}
+Yes.
+{/STR}{@:0013}{STR}
+No.
+{/STR}{@:0014}{STR}{AL:VERT}
+Paused
+{/STR}{@:0015}{STR}{AL:VERT}
+Insert the analog controller
+(DUALSHOCK 2) into
+controller port 1
+{/STR}{@:0016}{STR}{AL:VERT}{RED}
+Save Game feature not available
+on trial version.{WHITE}
+{/STR:END}{@:0017}{STR}{RED}
+Now Making...{WHITE}
+{/STR:END}{@:0018}{STR}
+Hey... wait.
+{/STR}{@:0019}{STR}
+What's goin' on?
+Where is everybody?
+{/STR}{@:001A}{STR}
+Those weird monsters...
+{/STR}{@:001B}{STR}
+They've come to witness
+the Beginning.
+{/STR}{@:001C}{STR}
+The rebirth of Paradise, unspoiled
+by mankind.
+{/STR}{@:001D}{STR}
+What are you talking about?
+{/STR}{@:001E}{STR}
+Don't you know? 
+Your power is needed.
+{/STR}{@:001F}{STR}
+How should I know!?
+{/STR}{@:0020}{STR}
+I am Claudia.
+{/STR}{@:0021}{STR}
+So what?
+{/STR}{@:0022}{STR}
+Remember me, and your true self
+as well.
+{/STR}{@:0023}{STR}
+Also that which you must become.
+{/STR}{@:0024}{STR}
+The one who will lead us to Paradise
+with blood-stained hands...
+{/STR}{@:0025}{STR}
+Claudia, right?
+Did you do all this?
+{/STR}{@:0026}{STR}
+It was the hand of God.
+{/STR}{@:0027}{STR}
+Wait!
+{/STR}{@:0028}{STR}
+I don't get it.
+{/STR}{@:0029}{STR}
+What does she want me to
+remember?
+{/STR}{@:002A}{STR}
+What...?
+{/STR}{@:002B}{STR}
+It's the shopping mall just
+like before.
+{/STR}{@:002C}{STR}
+Am I back?
+{/STR}{@:002D}{STR}
+Something's fallen between
+the table and the floor.
+I think it might be a key.
+{/STR:NEXT}{STR}
+If my arms were a little longer,
+I might be able to reach it.
+{/STR:NEXT}{STR}
+There's a huge pile of cardboard
+boxes on the table, full of books.
+{/STR:NEXT}{STR}
+It's way too much of a pain to
+move something that heavy...
+{/STR:END}{@:002E}{STR}
+Something's fallen between
+the table and the floor.
+I think it might be a key.
+{/STR:NEXT}{STR}
+If my arms were a little longer,
+I might be able to reach it.
+{/STR:NEXT}{STR}
+Oh, what about the tongs I got
+at the bakery earlier?
+{/STR:END}{@:002F}{STR}
+All that's left under there is dust,
+dust, and more dust.
+{/STR:NEXT}{STR}
+Probably nothing to worry about.
+{/STR:END}{@:0030}{STR}
+There's a bunch of boxes here.
+{/STR:NEXT}{STR}
+It doesn't look like there's anything
+useful inside any of them, though.
+{/STR:END}{@:0031}{STR}
+What a weird doorknob.
+I bet I could...oof...take it off.
+{/STR:END}{@:0032}{STR}{BLUE}
+Fair is foul, and foul is fair.
+Put these books out of order.{WHITE}
+{/STR:END}{@:0033}{STR}{AL:VERT}{BLUE}
+In here is a tragedy---
+art thou player or audience?
+Be as it may, the end doth remain:
+all go on only toward death.{WHITE}
+{/STR:NEXT}{STR}{AL:VERT}{BLUE}
+The first words at thy left hand:
+a false lunacy, a madly dancing man.
+Hearing unhearable words, drawn
+to a beloved's grave---and there,
+mayhap, true madness at last.{WHITE}
+{/STR:NEXT}{STR}{AL:VERT}{BLUE}
+As did this one, playing at death,
+find true death at the last.
+Killing a nameless lover, she
+pierced a heart rent by sorrow.{WHITE}
+{/STR:NEXT}{STR}{AL:VERT}{BLUE}
+Doth lie invite truth?
+Doth verity but wear the
+mask of falsehood?
+Ah, thou pitiful, thou
+miserable ones!{WHITE}
+{/STR:NEXT}{STR}{AL:VERT}{BLUE}
+Still amidst lies, though the end
+cometh not, wherefore yearn
+for death?
+Wilt thou attend to thy beloved?
+Truths and lies, life and death:
+a game of turning white to black
+and black to white.{WHITE}
+{/STR:NEXT}{STR}{AL:VERT}{BLUE}
+Is not a silence brimming with
+love more precious than flattery?
+A peaceful slumber preferred to
+a throne besmirched with blood?{WHITE}
+{/STR:NEXT}{STR}{AL:VERT}{BLUE}
+One vengeful man
+spilled blood for two;
+Two youths shed tears for three;
+Three witches disappeared thusly;
+And only the four keys remain.{WHITE}
+{/STR:NEXT}{STR}{AL:VERT}{BLUE}
+Ah, but verily...
+In here is a tragedy---
+art thou player or audience?
+There is nothing which cannot
+become a puppet of fate or an
+onlooker, peering into the cage.{WHITE}
+{/STR:END}{@:0034}{STR}
+This is the only place where there's
+any room left.
+{/STR:NEXT}{STR}
+Should I just line up the books
+I picked up off the floor?
+{/STR:END}{@:0035}{STR}
+Where on the shelf will you place
+the book?
+{/STR:END}{@:0036}{STR}
+Which book will you take?
+{/STR:END}{@:0037}{STR}
+There's a space for some books
+here. Is this where the ones on
+the floor belong?
+{/STR:END}{@:0038}{STR}
+There's a flyer.
+{/STR:NEXT}{STR}{BLUE}
+Crispy toasted bread 
+right to your very door.{WHITE}
+{/STR:NEXT}{STR}{BLUE}
+Everything on sale!
+Helen's Bakery{WHITE}
+{/STR:END}{@:0039}{STR}
+There's a flyer.
+{/STR:NEXT}{STR}{BLUE}
+Crispy toasted dead
+right to your very door.{WHITE}
+{/STR:NEXT}{STR}{BLUE}
+Everything on sale!
+Helen's Bakery{WHITE}
+{/STR:END}{@:003A}{STR}
+Just cardboard boxes.
+Nothing useful inside either.
+{/STR:END}{@:003B}{STR}
+The locker door won't open.
+Guess I'll just leave it alone.
+{/STR:END}{@:003C}{STR}
+There're lots of things posted on
+the bulletin board -- notices,
+schedules, stuff like that.
+{/STR:NEXT}{STR}
+I don't think they're important.
+{/STR:END}{@:003D}{STR}
+There's lots of stuff, but none of
+it really looks like it'll be useful.
+{/STR:END}{@:003E}{STR}
+It's bread.
+{/STR:NEXT}{STR}
+But I'm not really hungry, so I guess
+I don't need to worry about it.
+{/STR:END}{@:003F}{STR}
+There are no employees around. 
+I wonder where they all went...?
+{/STR:END}{@:0040}{STR}
+There are magazines on the shelf.
+{/STR:NEXT}{STR}
+Some of them look interesting, but
+it's really not the time for that.
+{/STR:END}{@:0041}{STR}
+None of the books are very
+interesting. Just the kind that I
+can buy anywhere.
+{/STR:END}{@:0042}{STR}
+There's a lot of stuff posted up here,
+but nothing useful.
+{/STR:END}{@:0043}{STR}
+The phone doesn't work.
+Well, we all have our hopes.
+{/STR:NEXT}{STR}
+Wish I could get ahold of Dad.
+{/STR:END}{@:0044}{STR}
+This is where I was sleeping earlier.
+{/STR:NEXT}{STR}
+Hell, I might still be sleeping here,
+for all I know.
+{/STR:NEXT}{STR}
+...I wish I were.
+{/STR:END}{@:0045}{STR}
+This is where I was sleeping earlier.
+{/STR:END}{@:0046}{STR}
+I push the button, but the elevator
+won't come.
+Is it broken or something?
+{/STR:END}{@:0047}{STR}
+I got a {GREEN}beam saber{WHITE}.
+{/STR:END}{@:0048}{STR}
+I got a {GREEN}flamethrower{WHITE}.
+{/STR:END}{@:0049}{STR}
+I got a pair of {GREEN}tongs{WHITE}.
+{/STR:END}{@:004A}{STR}
+I got the {GREEN}key taken with tongs{WHITE}.
+{/STR:END}{@:004B}{STR}
+I used the {GREEN}key taken with tongs{WHITE}.
+{/STR:END}{@:004C}{STR}{POSY1:28}{BLUE}
+Shakespeare Anthology 1{WHITE}
+{/STR}{@:004D}{STR}
+I got {GREEN}Shakespeare Anthology 1{WHITE}.
+{/STR:END}{@:004E}{STR}{POSY1:28}{BLUE}
+Shakespeare Anthology 2{WHITE}
+{/STR}{@:004F}{STR}
+I got {GREEN}Shakespeare Anthology 2{WHITE}.
+{/STR:END}{@:0050}{STR}{POSY1:28}{BLUE}
+Shakespeare Anthology 3{WHITE}
+{/STR}{@:0051}{STR}
+I got {GREEN}Shakespeare Anthology 3{WHITE}.
+{/STR:END}{@:0052}{STR}{POSY1:28}{BLUE}
+Shakespeare Anthology 4{WHITE}
+{/STR}{@:0053}{STR}
+I got {GREEN}Shakespeare Anthology 4{WHITE}.
+{/STR:END}{@:0054}{STR}{POSY1:28}{BLUE}
+Shakespeare Anthology 5{WHITE}
+{/STR}{@:0055}{STR}
+I got {GREEN}Shakespeare Anthology 5{WHITE}.
+{/STR:END}{@:0056}{/MES:005C}

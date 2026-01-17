@@ -1,0 +1,507 @@
+{MES:00B3}{STR}
+It's locked.
+{/STR:END}{@:0000}{STR}
+It's unlocked.
+{/STR:END}{@:0001}{STR}
+The lock is broken.
+I can't open the door.
+{/STR:END}{@:0002}{STR}
+The door's shut tight.
+It won't open at all.
+{/STR:END}{@:0003}{STR}
+It doesn't even look like this
+door will open. Never mind.
+{/STR:END}{@:0004}{STR}
+No matter how much I try to force
+it, the door won't open. Never mind.
+{/STR:END}{@:0005}{STR}
+It's too dark to read the map.
+{/STR:END}{@:0006}{STR}
+I don't have a map of this area.
+{/STR:END}{@:0007}{STR}
+I've seen this pattern somewhere.
+And not just now, either.
+{/STR:NEXT}{STR}
+A long time ago...when was it?
+And where?
+{/STR:NEXT}{STR}
+And...why does my head hurt so
+much when I try to remember it?
+{/STR:END}{@:0008}{STR}
+It's like a magic circle I remember
+reading about in a book on black
+magic.
+{/STR:NEXT}{STR}
+Does it seem so familiar because
+I read about it in that book?
+{/STR:NEXT}{STR}
+No, that's not it.... It's not the
+book... It's from the altar......
+{/STR:NEXT}{STR}
+Altar? What am I thinking?
+{/STR:END}{@:0009}{STR}
+This again....
+{/STR:NEXT}{STR}
+Looking at it makes my head hurt,
+but at the same time, it's like,
+so familiar....
+{/STR:NEXT}{STR}
+I know I've forgotten something
+really important.....
+{/STR:NEXT}{STR}
+But I also have the feeling that I'd
+be better off not remembering it.
+{/STR:END}{@:000A}{STR}
+I got a {GREEN}stun gun battery{WHITE}.
+{/STR:END}{@:000B}{STR}
+I got {GREEN}handgun bullets{WHITE}.
+{/STR:END}{@:000C}{STR}
+I got {GREEN}shotgun shells{WHITE}.
+{/STR:END}{@:000D}{STR}
+I got {GREEN}submachine gun bullets{WHITE}.
+{/STR:END}{@:000E}{STR}
+I got a {GREEN}health drink{WHITE}.
+{/STR:END}{@:000F}{STR}
+I got a {GREEN}first-aid kit{WHITE}.
+{/STR:END}{@:0010}{STR}
+I got an {GREEN}ampoule{WHITE}.
+{/STR:END}{@:0011}{STR}
+I got {GREEN}beef jerky{WHITE}.
+{/STR:END}{@:0012}{STR}
+Yes.
+{/STR}{@:0013}{STR}
+No.
+{/STR}{@:0014}{STR}{AL:VERT}
+Paused
+{/STR}{@:0015}{STR}{AL:VERT}
+Insert the analog controller
+(DUALSHOCK 2) into
+controller port 1
+{/STR}{@:0016}{STR}{AL:VERT}{RED}
+Save Game feature not available
+on trial version.{WHITE}
+{/STR:END}{@:0017}{STR}{RED}
+Now Making...{WHITE}
+{/STR:END}{@:0018}{STR}
+Dad, I'm home.
+{/STR}{@:0019}{STR}
+Listen....
+Something really crazy is going on.
+{/STR}{@:001A}{STR}
+I think we should... Dad?
+{/STR}{@:001B}{STR}
+Dad?
+{/STR}{@:001C}{STR}
+Did you do this?
+{/STR}{@:001D}{STR}
+You're late.
+{/STR}{@:001E}{STR}
+But why!? Why?
+{/STR}{@:001F}{STR}
+Revenge for 17 years ago for
+one thing.
+{/STR}{@:0020}{STR}
+If not for him, our dream would
+have come true!
+{/STR}{@:0021}{STR}
+And then, he took you away
+from us.
+{/STR}{@:0022}{STR}
+I'll kill you, you bitch!
+{/STR}{@:0023}{STR}
+There is another reason: to fill
+your heart with hatred.
+{/STR}{@:0024}{STR}
+It must be this way. 
+One day you will understand why.
+{/STR}{@:0025}{STR}
+No! I'll never understand!
+{/STR}{@:0026}{STR}
+You must try to remember me,
+and your true self as well.
+{/STR}{@:0027}{STR}
+You will birth a God and build
+an eternal Paradise.
+{/STR}{@:0028}{STR}
+He's the one who killed your father.
+I merely gave the order.
+{/STR}{@:0029}{STR}
+So what will you do?
+{/STR}{@:002A}{STR}
+I'll be waiting where all begins.
+{/STR}{@:002B}{STR}
+In the town of Silent Hill.
+{/STR}{@:002C}{STR}
+I don't know what to say...
+{/STR}{@:002D}{STR}
+Then don't say anything.
+{/STR}{@:002E}{STR}
+I'm fine so just get out of here,
+and leave me alone already.
+{/STR}{@:002F}{STR}
+Calm down, I just...
+{/STR}{@:0030}{STR}
+Calm down?
+How am I supposed to do that?
+{/STR}{@:0031}{STR}
+My father is dead!
+He's murdered!
+{/STR}{@:0032}{STR}
+Get out! This is all your fault!
+{/STR}{@:0033}{STR}
+If it weren't for you...
+{/STR}{@:0034}{STR}
+I'm sorry.
+{/STR}{@:0035}{STR}
+Then go!
+{/STR}{@:0036}{STR}
+If it'll make you feel better, I will.
+{/STR}{@:0037}{STR}
+Is he okay like this?
+{/STR}{@:0038}{STR}
+What else can I do? There's no one
+here to give him a decent burial.
+{/STR}{@:0039}{STR}
+I'm sorry, Dad.
+{/STR}{@:003A}{STR}
+What'll you do now?
+{/STR}{@:003B}{STR}
+I'm going to Silent Hill.
+{/STR}{@:003C}{STR}
+What's in Silent Hill?
+{/STR}{@:003D}{STR}
+I don't know.
+{/STR}{@:003E}{STR}
+Do you think it's safe?
+{/STR}{@:003F}{STR}
+Of course it isn't!
+{/STR}{@:0040}{STR}
+I don't know what kind of hell
+is waiting for me there,
+{/STR}{@:0041}{STR}
+but I've got no other choice.
+{/STR}{@:0042}{STR}
+I don't care about God or Paradise...
+If that's what she believes, then fine.
+{/STR}{@:0043}{STR}
+But she won't get away with what
+she did.
+{/STR}{@:0044}{STR}
+When I find her, I'll kill her myself.
+{/STR}{@:0045}{STR}
+Revenge doesn't solve anything.
+{/STR}{@:0046}{STR}
+Maybe not, but that's what I'm
+going to do.
+{/STR}{@:0047}{STR}
+How're you gonna get there?
+{/STR}{@:0048}{STR}
+None of your business.
+{/STR}{@:0049}{STR}
+I'll give you a ride.
+{/STR}{@:004A}{STR}
+I don't need your help.
+{/STR}{@:004B}{STR}
+Yeah, but it's too far to walk.
+{/STR}{@:004C}{STR}
+Besides, I'm partly responsible
+for this.
+{/STR}{@:004D}{STR}
+I'll bring the car around back.
+Come by when you're finished
+saying goodbye. 
+{/STR}{@:004E}{STR}
+You know you might die, too.
+{/STR}{@:004F}{STR}
+That's fine.
+{/STR}{@:0050}{STR}
+Nobody's gonna cry over my grave
+anyway.
+{/STR}{@:0051}{STR}
+I just met some guy named
+Vincent...
+{/STR}{@:0052}{STR}
+Vincent?
+{/STR}{@:0053}{STR}
+He's a friend of yours, right?
+{/STR}{@:0054}{STR}
+I'm not sure.
+{/STR}{@:0055}{STR}
+He said when we get to Silent Hill
+to look for a guy named Leonard.
+{/STR}{@:0056}{STR}
+And he gave me this map.
+{/STR}{@:0057}{STR}
+What do you want to do?
+{/STR}{@:0058}{STR}
+We can't trust him, but we've got
+no other choice.
+{/STR}{@:0059}{STR}
+Here, take this, too.
+{/STR}{@:005A}{STR}
+What's this?
+{/STR}{@:005B}{STR}
+Your father was holding it.
+{/STR}{@:005C}{STR}
+I'm home, Dad.
+{/STR}{@:005D}{STR}
+Listen....
+Something crazy is going on.
+{/STR}{@:005E}{STR}
+Cheryl, you're back.
+What happened?
+{/STR}{@:005F}{STR}
+Well, it's like this...
+{/STR}{@:0060}{STR}
+And that's about it.
+{/STR}{@:0061}{STR}
+Oh, my poor little Cheryl. 
+I can't believe that!
+{/STR}{@:0062}{STR}
+I'm going to Silent Hill and I'm gonna
+bust some heads!
+{/STR}{@:0063}{STR}
+Oh, Dad! You're the coolest!
+{/STR}{@:0064}{STR}{POSY1:28}
+Come on, kiddies! Gather around!
+{/STR}{@:0065}{STR}{POSY1:28}
+Now, tell me, everyone...
+{/STR}{@:0066}{STR}{POSY1:28}
+Aren't you sick and tired of that
+ol' UFO ending?
+{/STR}{@:0067}{STR}{POSY1:28}
+That's right! Be honest!
+{/STR}{@:0068}{STR}{POSY1:28}
+Honesty helps you grow big
+and strong!
+{/STR}{@:0069}{STR}{POSY1:28}
+Okay, you fine youngsters,
+let's all sing the Silent Hill song!
+{/STR}{@:006A}{STR}{POSY1:28}
+Ready? And-a one, and-a two,
+and-a one, two, five, seven...
+{/STR}{@:006B}{STR}{POSY1:28}
+Everybody sing the Silent Hill song
+{/STR}{@:006C}{STR}{POSY1:28}
+Come on, friends - let's sing along
+{/STR}{@:006D}{STR}{POSY1:28}
+We'll start with Claudia!
+{/STR}{@:006E}{STR}{POSY1:28}
+You don't all have to sing!
+{/STR}{@:006F}{STR}{POSY1:28}
+Claudia, Claudia
+{/STR}{@:0070}{STR}{POSY1:28}
+She's oh so nice, and I'm glad
+{/STR}{@:0071}{STR}{POSY1:28}
+She gives us all candy
+And money to spend
+{/STR}{@:0072}{STR}{POSY1:28}
+Just be sure that you don't get
+her mad
+{/STR}{@:0073}{STR}{POSY1:28}
+Everybody sing the Silent Hill song
+{/STR}{@:0074}{STR}{POSY1:28}
+Come on, friends - let's sing along
+{/STR}{@:0075}{STR}{POSY1:28}
+Next up is Vincent!
+{/STR}{@:0076}{STR}{POSY1:28}
+Here we go!
+{/STR}{@:0077}{STR}{POSY1:28}
+Vincent, Vincent
+{/STR}{@:0078}{STR}{POSY1:28}
+He's such a good boy, it's true
+{/STR}{@:0079}{STR}{POSY1:28}
+He walks old ladies
+Across the street
+{/STR}{@:007A}{STR}{POSY1:28}
+But he's selfish and so willful, too
+{/STR}{@:007B}{STR}{POSY1:28}
+Everybody sing the Silent Hill song
+{/STR}{@:007C}{STR}{POSY1:28}
+Come on, friends - let's sing along
+{/STR}{@:007D}{STR}{POSY1:28}
+Now on to Douglas!
+{/STR}{@:007E}{STR}{POSY1:28}
+Douglas, Douglas
+{/STR}{@:007F}{STR}{POSY1:28}
+He's not really a true-blue P.I.
+{/STR}{@:0080}{STR}{POSY1:28}
+He gets up awful early
+And smells of the sea
+{/STR}{@:0081}{STR}{POSY1:28}
+Because he sells fish on the sly
+{/STR}{@:0082}{STR}{POSY1:28}
+Everybody sing the Silent Hill song
+{/STR}{@:0083}{STR}{POSY1:28}
+Come on, friends - let's sing along
+{/STR}{@:0084}{STR}{POSY1:28}
+Last but not least, Heather!
+{/STR}{@:0085}{STR}{POSY1:28}
+Heather, Heather
+{/STR}{@:0086}{STR}{POSY1:28}
+Divorced with two kids of her own
+{/STR}{@:0087}{STR}{POSY1:28}
+It's so hard to raise 'em
+And still go to work
+{/STR}{@:0088}{STR}{POSY1:28}
+A young mom who goes it alone
+{/STR}{@:0089}{STR}{POSY1:28}
+Everybody sing the Silent Hill song
+{/STR}{@:008A}{STR}{POSY1:28}
+Come on, friends - let's sing along
+{/STR}{@:008B}{STR}{POSY1:28}
+Everybody sing the Silent Hill song
+{/STR}{@:008C}{STR}{POSY1:28}
+Come on, friends - let's sing along
+{/STR}{@:008D}{STR}{POSY1:28}
+Everybody sing the Silent Hill song
+{/STR}{@:008E}{STR}{POSY1:28}
+Come on, friends - let's sing along
+{/STR}{@:008F}{STR}
+But this is my place. Why should
+I leave the apartment?
+{/STR:END}{@:0090}{STR}
+That's not my place.
+{/STR:END}{@:0091}{STR}
+I don't need to use the elevator.
+My apartment is number 102, on the
+ground floor.
+{/STR:END}{@:0092}{STR}
+This is the stairway. I don't need that.
+My apartment is number 102, on the
+ground floor.
+{/STR:END}{@:0093}{STR}
+The mail box is empty.
+{/STR:END}{@:0094}{STR}
+The mail box is empty.
+{/STR:NEXT}{STR}
+There's no letter...from a dead wife
+or otherwise.
+{/STR:NEXT}{STR}
+Well, I don't have one of those
+anyway.
+{/STR:END}{@:0095}{STR}
+It's just a dust chute. Nothing to
+worry about.
+{/STR:END}{@:0096}{STR}
+I don't know who's stuff this is,
+but I think I'll leave it alone.
+{/STR:NEXT}{STR}
+None of it is really can help me out
+right now.
+{/STR:END}{@:0097}{STR}
+I don't need to go upstairs. Besides,
+Douglas is waiting outside.
+{/STR:END}{@:0098}{STR}
+This is where that building is.
+I don't think I need to go out there.
+{/STR:END}{@:0099}{STR}
+I don't need to be here.
+Besides, there's no one around.
+{/STR:END}{@:009A}{STR}
+What's this doing here!
+That really pisses me off.
+{/STR:NEXT}{STR}
+It's like having someone spit on
+your sacred place.
+{/STR:NEXT}{STR}
+Looking at that makes me head hurt.
+What does it mean...?
+{/STR:END}{@:009B}{STR}
+It's locked. 
+That bitch....!
+{/STR:END}{@:009C}{STR}
+I can't just run away!
+{/STR:NEXT}{STR}
+That thing killed my father....
+I won't let it get away with that.
+{/STR:END}{@:009D}{STR}
+Dad.....
+Why did you have to die?
+{/STR:NEXT}{STR}
+You told me you were the strongest
+man in the world...
+{/STR:NEXT}{STR}
+Liar...
+{/STR:END}{@:009E}{STR}
+Liar...
+{/STR:END}{@:009F}{STR}
+There's no need to go back on the
+roof. That monster is dead now.
+{/STR:NEXT}{STR}
+Besides, Douglas is waiting outside.
+{/STR:END}{@:00A0}{STR}
+There's nothing to do in the kitchen.
+I'm not hungry at all.
+{/STR:NEXT}{STR}
+Who could eat something in a situation
+like this?
+{/STR:END}{@:00A1}{STR}
+It's just the regular TV.
+There's nothing different about it.
+{/STR:END}{@:00A2}{STR}
+Photos and pictures. They aren't
+particularly meaningful.
+{/STR:END}{@:00A3}{STR}
+I can't reach anybody. 
+Not the police or the church.
+{/STR:END}{@:00A4}{STR}
+There are books on the table.
+{/STR:NEXT}{STR}
+Just his usual detective novels...
+My dad loved them.
+{/STR:END}{@:00A5}{STR}
+I'll find that woman and make
+her pay. I promise I will.
+{/STR:NEXT}{STR}
+I wonder if my dad would be mad
+at me for thinking that way.
+{/STR:END}{@:00A6}{STR}
+I'll be back, Dad.
+I promise I'll come home soon.
+{/STR:END}{@:00A7}{STR}
+Dad's bookshelf.
+There's nothing unusual about it.
+{/STR:END}{@:00A8}{STR}
+There's nothing odd about the TV
+or the VCR.
+{/STR:END}{@:00A9}{STR}
+This is the closet.
+Nothing to do here.
+{/STR:END}{@:00AA}{STR}
+This is my dresser.
+{/STR:NEXT}{STR}
+I don't need to change.
+I'll leave it alone.
+{/STR:END}{@:00AB}{STR}
+I'm exhausted, but I don't think I can sleep now.
+{/STR:NEXT}{STR}
+Besides, Douglas should be waiting
+for me outside.
+{/STR:END}{@:00AC}{STR}
+I don't remember exactly when, but
+I think I got this doll at a garage sale.
+{/STR:NEXT}{STR}
+I still like it, but there's nothing
+I can do with it right now.
+{/STR:END}{@:00AD}{STR}{BLUE}
+"Morning always comes.
+ It's corny, but it's true."{WHITE}
+{/STR:NEXT}{STR}{BLUE}
+"But if your eyes are closed,
+ it always feels like night."{WHITE}
+{/STR:NEXT}{STR}
+That's the hero's line from this
+movie.
+{/STR:NEXT}{STR}
+I always liked that line, but now
+it just seems stupid.
+{/STR:END}{@:00AE}{STR}
+It's just a movie poster.
+{/STR:END}{@:00AF}{STR}
+I got a {GREEN}stun gun{WHITE}.
+{/STR:END}{@:00B0}{STR}
+I got a {GREEN}photograph{WHITE}.
+{/STR:END}{@:00B1}{STR}
+I used the {GREEN}house key{WHITE}.
+{/STR:END}{@:00B2}{/MES:004C}
