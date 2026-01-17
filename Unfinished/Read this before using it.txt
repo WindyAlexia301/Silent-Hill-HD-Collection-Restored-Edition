@@ -1,0 +1,15 @@
+This Thing is supposed to be programming for adapting this subtitles to new voices,but me and idmus00 didnt made that feature yet so
+
+for Early Access,i give this things
+
+
+HOW TO USE IT: Copy these files and paste them in sh3(or sh3_360)/data/msg
+
+DISCLAIMER:For Now There is only english version,but i Will make sure when its completed the original voices,i make this thing in very language
+
+Korean
+Spanish(si,soy española,)
+English
+French
+Japanese
+(FOR NOW THERE IS ONLY ENGLISH VERSION)

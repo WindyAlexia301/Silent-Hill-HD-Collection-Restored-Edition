@@ -1,0 +1,257 @@
+{MES:0051}{STR}
+It's locked.
+{/STR:END}{@:0000}{STR}
+It's unlocked.
+{/STR:END}{@:0001}{STR}
+The lock is broken.
+I can't open the door.
+{/STR:END}{@:0002}{STR}
+The door's shut tight.
+It won't open at all.
+{/STR:END}{@:0003}{STR}
+It doesn't even look like this
+door will open. Never mind.
+{/STR:END}{@:0004}{STR}
+No matter how much I try to force
+it, the door won't open. Never mind.
+{/STR:END}{@:0005}{STR}
+It's too dark to read the map.
+{/STR:END}{@:0006}{STR}
+I don't have a map of this area.
+{/STR:END}{@:0007}{STR}
+I've seen this pattern somewhere.
+And not just now, either.
+{/STR:NEXT}{STR}
+A long time ago...when was it?
+And where?
+{/STR:NEXT}{STR}
+And...why does my head hurt so
+much when I try to remember it?
+{/STR:END}{@:0008}{STR}
+It's like a magic circle I remember
+reading about in a book on black
+magic.
+{/STR:NEXT}{STR}
+Does it seem so familiar because
+I read about it in that book?
+{/STR:NEXT}{STR}
+No, that's not it.... It's not the
+book... It's from the altar......
+{/STR:NEXT}{STR}
+Altar? What am I thinking?
+{/STR:END}{@:0009}{STR}
+This again....
+{/STR:NEXT}{STR}
+Looking at it makes my head hurt,
+but at the same time, it's like,
+so familiar....
+{/STR:NEXT}{STR}
+I know I've forgotten something
+really important.....
+{/STR:NEXT}{STR}
+But I also have the feeling that I'd
+be better off not remembering it.
+{/STR:END}{@:000A}{STR}
+I got a {GREEN}stun gun battery{WHITE}.
+{/STR:END}{@:000B}{STR}
+I got {GREEN}handgun bullets{WHITE}.
+{/STR:END}{@:000C}{STR}
+I got {GREEN}shotgun shells{WHITE}.
+{/STR:END}{@:000D}{STR}
+I got {GREEN}submachine gun bullets{WHITE}.
+{/STR:END}{@:000E}{STR}
+I got a {GREEN}health drink{WHITE}.
+{/STR:END}{@:000F}{STR}
+I got a {GREEN}first-aid kit{WHITE}.
+{/STR:END}{@:0010}{STR}
+I got an {GREEN}ampoule{WHITE}.
+{/STR:END}{@:0011}{STR}
+I got {GREEN}beef jerky{WHITE}.
+{/STR:END}{@:0012}{STR}
+Yes.
+{/STR}{@:0013}{STR}
+No.
+{/STR}{@:0014}{STR}{AL:VERT}
+Paused
+{/STR}{@:0015}{STR}{AL:VERT}
+Insert the analog controller
+(DUALSHOCK 2) into
+controller port 1
+{/STR}{@:0016}{STR}{AL:VERT}{RED}
+Save Game feature not available
+on trial version.{WHITE}
+{/STR:END}{@:0017}{STR}{RED}
+Now Making...{WHITE}
+{/STR:END}{@:0018}{STR}
+Oh no, not again...
+{/STR}{@:0019}{STR}
+Did she do this, too?
+{/STR}{@:001A}{STR}
+I'm twisting the handle,
+but nothing's coming out.
+{/STR:END}{@:001B}{STR}
+Heather...
+That's what you're called now, isn't it?
+{/STR}{@:001C}{STR}
+And who are you?
+{/STR}{@:001D}{STR}
+The name's Vincent. 
+Don't forget it, OK?
+{/STR}{@:001E}{STR}
+I'm on your side.
+{/STR}{@:001F}{STR}
+So you say...
+{/STR}{@:0020}{STR}
+But how do I know you're not
+with her?
+{/STR}{@:0021}{STR}
+Her? You mean Claudia?
+{/STR}{@:0022}{STR}
+Please! Don't lump me together
+with her.
+{/STR}{@:0023}{STR}
+She was totally brainwashed by
+that crazy old hag.
+{/STR}{@:0024}{STR}
+I guess "crazy old hag" is a bit harsh.
+She was your mother, after all...
+{/STR}{@:0025}{STR}
+My mother? 
+What do you mean?
+{/STR}{@:0026}{STR}
+You don't remember?
+{/STR}{@:0027}{STR}
+So Harry didn't tell you anything.
+{/STR}{@:0028}{STR}
+I guess he hid the truth to keep you
+on his side, eh?
+{/STR}{@:0029}{STR}
+That figures. He's a pretty
+sneaky guy.
+{/STR}{@:002A}{STR}
+Don't talk about my dad like that!
+{/STR}{@:002B}{STR}
+Sorry, I apologize. 
+Please calm down.
+{/STR}{@:002C}{STR}
+How do you know my father
+anyway?
+{/STR}{@:002D}{STR}
+I know everything.
+{/STR}{@:002E}{STR}
+I know about your past too.
+{/STR}{@:002F}{STR}
+Then tell me what's going on.
+{/STR}{@:0030}{STR}
+You don't know even that?
+{/STR}{@:0031}{STR}
+That's why I'm asking.
+{/STR}{@:0032}{STR}
+If you know everything, then tell me
+how I can put an end to this.
+{/STR}{@:0033}{STR}
+Not yet.
+{/STR}{@:0034}{STR}
+Why not enjoy yourself
+a bit longer?
+{/STR}{@:0035}{STR}
+Enjoy? I feel like I'm going crazy.
+{/STR}{@:0036}{STR}
+Doesn't this place get to you at all?
+{/STR}{@:0037}{STR}
+Oh it gets to me all right.
+{/STR}{@:0038}{STR}
+I find it most fascinating.
+{/STR}{@:0039}{STR}
+Wait! I'm not finished talking!
+{/STR}{@:003A}{STR}
+I knew you were on her side.
+{/STR}{@:003B}{STR}
+How do you figure!?
+{/STR}{@:003C}{STR}
+There's something wrong with you,
+too.
+{/STR}{@:003D}{STR}
+It's being invaded by the
+Otherworld.
+{/STR}{@:003E}{STR}
+By a world of someone's
+nightmarish delusions come to life...
+{/STR}{@:003F}{STR}
+Oh, there's something here.
+{/STR:END}{@:0040}{STR}{BLUE}
+Find the Holy One. 
+Kill her?{WHITE}
+{/STR:END}{@:0041}{STR}
+That's me.
+Who could have taken this photo...?
+{/STR:NEXT}{STR}
+That's really creepy.
+{/STR:END}{@:0042}{STR}
+There's a junior high school chemistry
+book here.
+{/STR:NEXT}{STR}{AL:VERT}{BLUE}
+When you pour diluted hydrogen
+peroxide onto manganese dioxide,
+oxygen is produced.
+Although oxygen will not burn on
+its own, it will help other things
+to burn.{WHITE}
+{/STR:NEXT}{STR}{AL:VERT}{BLUE}
+Oxygen is also formed when the
+disinfectant oxydol is poured onto
+grated vegetables or liver.{WHITE}
+{/STR:END}{@:0043}{STR}
+There's a junior high school chemistry
+book here.
+{/STR:NEXT}{STR}{AL:VERT}{BLUE}
+When you pour diluted hydrogen
+peroxide onto manganese dioxide,
+oxygen is produced.
+Although oxygen will not burn on
+its own, it will help other things
+to burn.{WHITE}
+{/STR:END}{@:0044}{STR}
+I don't think I'll go in this room.
+That weird guy's in there...
+{/STR:END}{@:0045}{STR}
+I push the button but nothing
+happens. I guess this elevator
+isn't working.
+{/STR:END}{@:0046}{STR}
+The mummy-like thing in the
+wheelchair is just a doll.
+{/STR:NEXT}{STR}
+Or...or is it? Something about
+it makes me uneasy.
+{/STR:NEXT}{STR}
+Why, I wonder?
+{/STR:NEXT}{STR}
+And why is there a wheelchair in
+this building? Or a doll, for that
+matter?
+{/STR:END}{@:0047}{STR}
+There's a doll in the wheelchair.
+I have a bad feeling about it.
+{/STR:END}{@:0048}{STR}{BLUE}
+Examination Room{WHITE}
+{/STR:END}{@:0049}{STR}{BLUE}
+Office{WHITE}
+{/STR:END}{@:004A}{STR}
+I don't know what kind of plant this
+is, but it's withering away.
+{/STR:NEXT}{STR}
+Poor thing...
+{/STR:END}{@:004B}{STR}
+I don't need these hangers.
+{/STR:END}{@:004C}{STR}
+The TV looks broken.
+The switch doesn't do anything.
+{/STR:END}{@:004D}{STR}
+I'm done with these shelves.
+{/STR:END}{@:004E}{STR}
+There's nothing worthwhile on
+the desk.
+{/STR:END}{@:004F}{STR}
+I got {GREEN}oxydol{WHITE}.
+{/STR:END}{@:0050}{/MES:0028}
