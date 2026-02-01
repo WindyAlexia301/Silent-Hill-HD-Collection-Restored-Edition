@@ -20,4 +20,4 @@ A Fan-Made Patches That Fix The Hijinx Studios Shit (W.I.P)
 
 # Silent Hill HD Collection Completed things:
 1.**SH3 TEXTURES**
-1.**Credits**
+2.**Credits**
