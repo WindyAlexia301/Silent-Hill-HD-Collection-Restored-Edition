@@ -1,0 +1,291 @@
+{MES:0045}{STR}
+It's locked.
+{/STR:END}{@:0000}{STR}
+It's unlocked.
+{/STR:END}{@:0001}{STR}
+The lock is broken.
+I can't open the door.
+{/STR:END}{@:0002}{STR}
+The door's shut tight.
+It won't open at all.
+{/STR:END}{@:0003}{STR}
+It doesn't even look like this
+door will open. Never mind.
+{/STR:END}{@:0004}{STR}
+No matter how much I try to force
+it, the door won't open. Never mind.
+{/STR:END}{@:0005}{STR}
+It's too dark to read the map.
+{/STR:END}{@:0006}{STR}
+I don't have a map of this area.
+{/STR:END}{@:0007}{STR}
+I've seen this pattern somewhere.
+And not just now, either.
+{/STR:NEXT}{STR}
+A long time ago...when was it?
+And where?
+{/STR:NEXT}{STR}
+And...why does my head hurt so
+much when I try to remember it?
+{/STR:END}{@:0008}{STR}
+It's like a magic circle I remember
+reading about in a book on black
+magic.
+{/STR:NEXT}{STR}
+Does it seem so familiar because
+I read about it in that book?
+{/STR:NEXT}{STR}
+No, that's not it.... It's not the
+book... It's from the altar......
+{/STR:NEXT}{STR}
+Altar? What am I thinking?
+{/STR:END}{@:0009}{STR}
+This again....
+{/STR:NEXT}{STR}
+Looking at it makes my head hurt,
+but at the same time, it's like,
+so familiar....
+{/STR:NEXT}{STR}
+I know I've forgotten something
+really important.....
+{/STR:NEXT}{STR}
+But I also have the feeling that I'd
+be better off not remembering it.
+{/STR:END}{@:000A}{STR}
+I got a {GREEN}stun gun battery{WHITE}.
+{/STR:END}{@:000B}{STR}
+I got {GREEN}handgun bullets{WHITE}.
+{/STR:END}{@:000C}{STR}
+I got {GREEN}shotgun shells{WHITE}.
+{/STR:END}{@:000D}{STR}
+I got {GREEN}submachine gun bullets{WHITE}.
+{/STR:END}{@:000E}{STR}
+I got a {GREEN}health drink{WHITE}.
+{/STR:END}{@:000F}{STR}
+I got a {GREEN}first-aid kit{WHITE}.
+{/STR:END}{@:0010}{STR}
+I got an {GREEN}ampoule{WHITE}.
+{/STR:END}{@:0011}{STR}
+I got {GREEN}beef jerky{WHITE}.
+{/STR:END}{@:0012}{STR}
+Yes.
+{/STR}{@:0013}{STR}
+No.
+{/STR}{@:0014}{STR}{AL:VERT}
+Paused
+{/STR}{@:0015}{STR}{AL:VERT}
+Insert the analog controller
+(DUALSHOCK 2) into
+controller port 1
+{/STR}{@:0016}{STR}{AL:VERT}{RED}
+Save Game feature not available
+on trial version.{WHITE}
+{/STR:END}{@:0017}{STR}{RED}
+Now Making...{WHITE}
+{/STR:END}{@:0018}{STR}
+There's an outlet here.
+{/STR:END}{@:0019}{STR}
+There's blood all over the walls
+and floor.
+{/STR:NEXT}{STR}
+I don't know what happened, but I
+sure don't like the feel of this place.
+{/STR:END}{@:001A}{STR}
+There's blood all over the walls
+and floor.
+{/STR:NEXT}{STR}
+Was this the monster mentioned
+in that note...?
+{/STR:NEXT}{STR}
+I don't think it's a good idea to hang
+around here like this.
+{/STR:END}{@:001B}{STR}
+It's too dangerous to cross.
+I have a bad feeling about this...
+{/STR:END}{@:001C}{STR}
+It's too dangerous to cross.
+Seems like there's a monster here.
+{/STR:NEXT}{STR}
+Is this a joke? Well, with the way
+things're going, I guess it wouldn't
+be so strange if it were for real.
+{/STR:END}{@:001D}{STR}
+The dryer's plugged into the outlet.
+{/STR:NEXT}{STR}
+Actually, it seems like this dryer
+has a longer cord than usual.
+{/STR:END}{@:001E}{STR}
+What kind of valve could this be?
+{/STR:NEXT}{STR}
+I doubt it's anything important.
+I'll just leave it alone for now.
+{/STR:END}{@:001F}{STR}
+There's some complicated machine
+here. It's not on or anything;
+I'll leave it alone.
+{/STR:END}{@:0020}{STR}
+What was it that you dropped?
+Was it this precious gold pipe?{YES/NO}
+{/STR}{@:0021}{STR}
+Well then, was it this magnificent
+silver pipe?{YES/NO}
+{/STR}{@:0022}{STR}
+Perhaps it was only this filthy steel
+pipe that you dropped?{YES/NO}
+{/STR}{@:0023}{STR}
+Ah, I have finally found a truly
+honest person.
+{/STR}{@:0024}{STR}
+In return, I will give you both
+the gold pipe and the silver pipe
+to keep.
+{/STR}{@:0025}{STR}
+You are a liar! I have nothing to
+give to you.
+{/STR}{@:0026}{STR}
+Will you drop the {GREEN}steel pipe{WHITE} into
+the pool?{YES/NO}
+{/STR}{@:0027}{STR}
+I threw in the {GREEN}steel pipe{WHITE}, but it looks
+like nothing's happening.
+{/STR:END}{@:0028}{STR}
+Will you drop the {GREEN}silver pipe{WHITE} into
+the pool?{YES/NO}
+{/STR}{@:0029}{STR}
+I threw in the {GREEN}silver pipe{WHITE}, but it
+looks like nothing's happening.
+{/STR:END}{@:002A}{STR}
+Will you drop the {GREEN}gold pipe{WHITE} into
+the pool?{YES/NO}
+{/STR}{@:002B}{STR}
+I threw in the {GREEN}gold pipe{WHITE}, but it
+looks like nothing's happening.
+{/STR:END}{@:002C}{STR}
+But I'm using it.
+I think I'll hold onto it after all.
+{/STR:END}{@:002D}{STR}
+Now that's a lot of garbage.
+{/STR:NEXT}{STR}
+Where the hell did it all come from?
+{/STR:NEXT}{STR}
+I guess this is all the stuff that gets
+tossed out into the sewers.
+{/STR:END}{@:002E}{STR}
+What kind of machine is this?
+It looks like it doesn't work
+anymore.
+{/STR:END}{@:002F}{STR}
+It's a broken clock.
+This is from the sewer too...?
+{/STR:END}{@:0030}{STR}
+There's nothing that looks useful
+in the cardboard box.
+{/STR:NEXT}{STR}
+There's a deodorant inside, but
+it would probably be a waste of
+energy.
+{/STR:END}{@:0031}{STR}
+I'm just wasting my time looking
+around here. I'd better get going.
+{/STR:NEXT}{STR}
+Even so, it really stinks. It's going
+straight from my nose to my head...
+{/STR:END}{@:0032}{STR}
+A wheelchair? Why would a
+wheelchair be thrown out here?
+{/STR:END}{@:0033}{STR}
+There's something written on
+the notebook.
+{/STR:NEXT}{STR}{AL:VERT}{BLUE}
+There's a monster in the water. The
+bastard's killed 2 of my buddies.{WHITE}
+{/STR:NEXT}{STR}{AL:VERT}{BLUE}
+I should never have doubted that
+old urban legend about alligators
+in the sewers. That was no myth.{WHITE}
+{/STR:NEXT}{STR}{AL:VERT}{BLUE}
+But no one believes me. They were
+drunk and slipped? We're not that
+damn stupid.{WHITE}
+{/STR:NEXT}{STR}{AL:VERT}{BLUE}
+Even calling it a monster isn't quite
+right. This is something else. All I
+know is...something's in there.{WHITE}
+{/STR:NEXT}{STR}{AL:VERT}{BLUE}
+I'm going in now to beat that thing's
+head in. If you find this note,
+consider it my will.{WHITE}
+{/STR:NEXT}{STR}{AL:VERT}{BLUE}
+Revenge is futile -- or so you may
+think, reading this. But Jose and
+Jaime were my best buddies.{WHITE}
+{/STR:NEXT}{STR}{AL:VERT}{BLUE}
+Wish I knew how to do the deed.
+Guns won't work underwater.
+Even my famous knifework won't
+do much. If only I had a hand
+grenade...{WHITE}
+{/STR:END}{@:0034}{STR}{BLUE}
+Danger! Keep out!{WHITE}
+{/STR:NEXT}{STR}
+This was probably pasted on that
+door there. I can see where it fell off.
+{/STR:END}{@:0035}{STR}
+There's nothing very interesting
+written on the blackboard.
+{/STR:END}{@:0036}{STR}
+There are documents on the floor.
+Some kind of paperwork...
+{/STR:NEXT}{STR}
+According to this, the two people
+mentioned in the documents, Jose
+and Jaime, are dead.
+{/STR:NEXT}{STR}
+Looks like it happened on the job.
+{/STR:END}{@:0037}{STR}
+The drawer is open. But it's only
+filled with boring documents.
+{/STR:NEXT}{STR}
+Nothing interesting.
+{/STR:END}{@:0038}{STR}
+Is this a security monitor? I can't
+see anything. It must be broken.
+{/STR:END}{@:0039}{STR}
+There's a memo posted here.
+I can't tell what it says.
+{/STR:NEXT}{STR}
+It doesn't look like English.
+{/STR:END}{@:003A}{STR}
+There are documents on the floor.
+They don't look like they have
+anything to do with me.
+{/STR:NEXT}{STR}
+But they've got today's date on
+them.... That's weird....
+{/STR:END}{@:003B}{STR}
+The cardboard box doesn't have
+anything useful in it.
+{/STR:END}{@:003C}{STR}
+There's nothing in the drum can. 
+Well, forget about that.
+{/STR:END}{@:003D}{STR}
+This must be where the water gets
+drained out.
+{/STR:END}{@:003E}{STR}
+The drum is in the way.
+{/STR:NEXT}{STR}
+There's something inside.
+I doubt I can move it.
+{/STR:END}{@:003F}{STR}
+I can't get in; there's an iron grate
+blocking the way.
+{/STR:END}{@:0040}{STR}
+There's stuff all over, but definitely
+nothing worth bringing along.
+{/STR:END}{@:0041}{STR}
+I got a {GREEN}gold pipe{WHITE}.
+{/STR:END}{@:0042}{STR}
+I got a {GREEN}silver pipe{WHITE}.
+{/STR:END}{@:0043}{STR}
+I got a {GREEN}dryer{WHITE}.
+{/STR:END}{@:0044}{/MES:0046}
