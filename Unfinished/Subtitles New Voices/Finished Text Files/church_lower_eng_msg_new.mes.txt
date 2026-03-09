@@ -1,0 +1,988 @@
+{MES:00EB}{STR}
+It's locked.
+{/STR:END}{@:0000}{STR}
+It's unlocked.
+{/STR:END}{@:0001}{STR}
+The lock is broken.
+I can't open the door.
+{/STR:END}{@:0002}{STR}
+The door's shut tight.
+It won't open at all.
+{/STR:END}{@:0003}{STR}
+It doesn't even look like this
+door will open. Never mind.
+{/STR:END}{@:0004}{STR}
+No matter how much I try to force
+it, the door won't open. Never mind.
+{/STR:END}{@:0005}{STR}
+It's too dark to read the map.
+{/STR:END}{@:0006}{STR}
+I don't have a map of this area.
+{/STR:END}{@:0007}{STR}
+I've seen this pattern somewhere.
+And not just now, either.
+{/STR:NEXT}{STR}
+A long time ago...when was it?
+And where?
+{/STR:NEXT}{STR}
+And...why does my head hurt so
+much when I try to remember it?
+{/STR:END}{@:0008}{STR}
+It's like a magic circle I remember
+reading about in a book on black
+magic.
+{/STR:NEXT}{STR}
+Does it seem so familiar because
+I read about it in that book?
+{/STR:NEXT}{STR}
+No, that's not it.... It's not the
+book... It's from the altar......
+{/STR:NEXT}{STR}
+Altar? What am I thinking?
+{/STR:END}{@:0009}{STR}
+This again....
+{/STR:NEXT}{STR}
+Looking at it makes my head hurt,
+but at the same time, it's like,
+so familiar....
+{/STR:NEXT}{STR}
+I know I've forgotten something
+really important.....
+{/STR:NEXT}{STR}
+But I also have the feeling that I'd
+be better off not remembering it.
+{/STR:END}{@:000A}{STR}
+I got a {GREEN}stun gun battery{WHITE}.
+{/STR:END}{@:000B}{STR}
+I got {GREEN}handgun bullets{WHITE}.
+{/STR:END}{@:000C}{STR}
+I got {GREEN}shotgun shells{WHITE}.
+{/STR:END}{@:000D}{STR}
+I got {GREEN}submachine gun bullets{WHITE}.
+{/STR:END}{@:000E}{STR}
+I got a {GREEN}health drink{WHITE}.
+{/STR:END}{@:000F}{STR}
+I got a {GREEN}first-aid kit{WHITE}.
+{/STR:END}{@:0010}{STR}
+I got an {GREEN}ampoule{WHITE}.
+{/STR:END}{@:0011}{STR}
+I got {GREEN}beef jerky{WHITE}.
+{/STR:END}{@:0012}{STR}
+Yes.
+{/STR}{@:0013}{STR}
+No.
+{/STR}{@:0014}{STR}{AL:VERT}
+Paused
+{/STR}{@:0015}{STR}{AL:VERT}
+Insert the analog controller
+(DUALSHOCK®2) into
+controller port 1
+{/STR}{@:0016}{STR}{AL:VERT}{RED}
+Save Game feature not available
+on trial version.{WHITE}
+{/STR:END}{@:0017}{STR}{RED}
+Now Making...{WHITE}
+{/STR:END}{@:0018}{STR}
+Hiya, Heather.
+{/STR}{@:0019}{STR}
+You show up everywhere,
+don't you?
+{/STR}{@:001A}{STR}
+You make me sound like some kind
+of unwanted pest.
+{/STR}{@:001B}{STR}
+Well who are you anyway?
+{/STR}{@:001C}{STR}
+Haven't you realized that yet?
+{/STR}{@:001D}{STR}
+Yeah, you're on Claudia's side.
+{/STR}{@:001E}{STR}
+I told you not to put me in the
+same category as that madwoman.
+{/STR}{@:001F}{STR}
+Well, you're pretty loony yourself.
+{/STR}{@:0020}{STR}
+It's true we believe in the same god,
+but I'm quite sane.
+{/STR}{@:0021}{STR}
+So why did you help me out then?
+{/STR}{@:0022}{STR}
+Was that also part of trying to
+resurrect god?
+{/STR}{@:0023}{STR}
+It's not uncommon for people to
+worship the same god and still
+disagree.
+{/STR}{@:0024}{STR}
+"God"? Are you sure you don't
+mean "Devil"?
+{/STR}{@:0025}{STR}
+Whichever you like.
+{/STR}{@:0026}{STR}
+The point is that now I really am
+on your side.
+{/STR}{@:0027}{STR}
+I don't want God to be born.
+{/STR}{@:0028}{STR}
+It wouldn't be convenient.
+{/STR}{@:0029}{STR}
+Much too unpredictable.
+{/STR}{@:002A}{STR}
+So you've been using me to stop
+Claudia, is that it?
+{/STR}{@:002B}{STR}
+Do your own dirty work.
+{/STR}{@:002C}{STR}
+My dirty work? I think we both
+had our own interests in mind.
+{/STR}{@:002D}{STR}
+You hate her too, don't you?
+{/STR}{@:002E}{STR}
+You're the only one who can get
+it done.
+{/STR}{@:002F}{STR}
+I don't have powers like you two.
+{/STR}{@:0030}{STR}
+Besides, I always hated getting all
+hot and sweaty.
+{/STR}{@:0031}{STR}
+Oh, really?
+{/STR}{@:0032}{STR}
+I'm just looking out for myself.
+Everyone does it.
+{/STR}{@:0033}{STR}
+Don't stand there looking so smug.
+{/STR}{@:0034}{STR}
+You're the worst person in
+this room.
+{/STR}{@:0035}{STR}
+You come here and enjoy spilling
+their blood and listening to them
+cry out.
+{/STR}{@:0036}{STR}
+You feel excited when you step on
+them and snuff out their lives.
+{/STR}{@:0037}{STR}
+Are you talking about the monsters?
+{/STR}{@:0038}{STR}
+Monsters...?
+{/STR}{@:0039}{STR}
+They looked like monsters to you?
+{/STR}{@:003A}{STR}
+Don't worry, it's just a joke.
+{/STR}{@:003B}{STR}
+By the way, I forgot to ask you.
+Did you get the Seal of Metatron?
+{/STR}{@:003C}{STR}
+What's that?
+{/STR}{@:003D}{STR}
+You don't have it!? 
+Leonard was carrying it!
+{/STR}{@:003E}{STR}
+You mean this thing?
+{/STR}{@:003F}{STR}
+Yes! That's it. As long as we
+have that, we're fine.
+{/STR}{@:0040}{STR}
+Here, take this.
+{/STR}{@:0041}{STR}
+What do I want?
+{/STR}{@:0042}{STR}
+Well, for the two of you to die.
+That would be nice.
+{/STR}{@:0043}{STR}
+Then I could relax.
+{/STR}{@:0044}{STR}
+When did you stop believing
+in God?
+{/STR}{@:0045}{STR}
+God lives. 
+Just look around you.
+{/STR}{@:0046}{STR}
+But I do believe in Her. 
+In my own way.
+{/STR}{@:0047}{STR}
+I fear Her and I adore Her.
+{/STR}{@:0048}{STR}
+But I haven't lost my mind like you.
+{/STR}{@:0049}{STR}
+You think that this is the work
+of God?
+{/STR}{@:004A}{STR}
+Isn't this all nothing more than your
+own personal nightmare?
+{/STR}{@:004B}{STR}
+Just like Alessa 17 years ago.
+{/STR}{@:004C}{STR}
+If this really is the work of God,
+then I'd say She has terrible taste.
+{/STR}{@:004D}{STR}
+You mock God!? Traitor.
+{/STR}{@:004E}{STR}
+You will go to Hell.
+{/STR}{@:004F}{STR}
+Not that again!
+{/STR}{@:0050}{STR}
+Who do you think you are,
+claiming to know God's will!?
+{/STR}{@:0051}{STR}
+Go home, Vincent.
+{/STR}{@:0052}{STR}
+Home? This church is my home.
+{/STR}{@:0053}{STR}
+I built it with my power.
+The power of money that you
+view with such scorn.
+{/STR}{@:0054}{STR}
+Although, I admit that this atrocious
+scenery is all yours.
+{/STR}{@:0055}{STR}
+If you continue to get in my way...
+{/STR}{@:0056}{STR}
+Then you'll kill me?
+{/STR}{@:0057}{STR}
+Well, the guest of honor has arrived.
+Let's get this party started.
+{/STR}{@:0058}{STR}
+Heather, go ahead and kill this
+crazy bitch.
+{/STR}{@:0059}{STR}
+This demon who claims to speak
+for God.
+{/STR}{@:005A}{STR}
+The time has come. 
+You can kill her now.
+{/STR}{@:005B}{STR}
+You'll go to Hell!
+{/STR}{@:005C}{STR}
+What did you do?
+{/STR}{@:005D}{STR}
+Oh, nothing important.
+{/STR}{@:005E}{STR}
+You're not going to run? 
+I guess this is the end.
+{/STR}{@:005F}{STR}
+No, the beginning.
+As Vincent said: The time has come.
+{/STR}{@:0060}{STR}
+Alessa, I'm saddened that you didn't
+agree to this on your own.
+{/STR}{@:0061}{STR}
+But I thank you for nurturing God
+with all the hate in your heart.
+{/STR}{@:0062}{STR}
+It's time for Mankind to be released
+from the shackles of sin which bind
+them.
+{/STR}{@:0063}{STR}
+But a God born from hatred can
+never create a perfect paradise!
+{/STR}{@:0064}{STR}
+Happy people can be so cruel.
+{/STR}{@:0065}{STR}
+Is it so hard to believe that
+sympathy could be born out
+of pain and suffering?
+{/STR}{@:0066}{STR}
+Why do you reject God's mercy?
+{/STR}{@:0067}{STR}
+Why do you cling to this corrupt
+world? You know that only God
+can save us.
+{/STR}{@:0068}{STR}
+And save you too? 
+Happy ending?
+{/STR}{@:0069}{STR}
+I'd rather go to Hell.
+{/STR}{@:006A}{STR}
+No, I don't expect to be saved. 
+{/STR}{@:006B}{STR}
+That's fine.
+{/STR}{@:006C}{STR}
+Alessa, my dearest.
+{/STR}{@:006D}{STR}
+For the pain that I've caused you,
+I deserve no mercy.
+{/STR}{@:006E}{STR}
+Even if it was to save mankind,
+it was too deep a sin. 
+{/STR}{@:006F}{STR}
+It was hubris for me to try to
+hasten the day of Her arrival.
+{/STR}{@:0070}{STR}
+Sacrifices were made, and those
+are my sins.
+{/STR}{@:0071}{STR}
+If you feel so guilty about it, why
+don't you go to Hell!
+{/STR}{@:0072}{STR}
+Heather, use the Seal!
+{/STR}{@:0073}{STR}
+Vincent?
+{/STR}{@:0074}{STR}
+The Seal of Metatron!
+{/STR}{@:0075}{STR}
+Now your stupid dream is over!
+{/STR}{@:0076}{STR}
+Oh. That's just a piece of junk.
+{/STR}{@:0077}{STR}
+What do you think you can do
+with that?
+{/STR}{@:0078}{STR}
+Do you really think it can kill God?
+{/STR}{@:0079}{STR}
+I'm sorry to see you fell for my
+father's foolishness.
+{/STR}{@:007A}{STR}
+What!?
+{/STR}{@:007B}{STR}
+You're pathetic.
+{/STR}{@:007C}{STR}
+But God loves even you.
+{/STR}{@:007D}{STR}
+Now Alessa, there's nowhere
+else to run.
+{/STR}{@:007E}{STR}
+Just accept it, Alessa.
+{/STR}{@:007F}{STR}
+The pain will disappear.
+{/STR}{@:0080}{STR}
+Oh, I've been waiting so long
+for this.
+{/STR}{@:0081}{STR}
+Even as a child, I knew I would see
+the coming of this day.
+{/STR}{@:0082}{STR}
+I knew I would be a witness to it.
+Judgment Day!
+{/STR}{@:0083}{STR}
+Alessa!
+{/STR}{@:0084}{STR}
+Shut your mouth, you stinking bitch!
+{/STR}{@:0085}{STR}
+Aah!
+{/STR}{@:0086}{STR}
+Alessa...
+{/STR}{@:0087}{STR}
+Oh God...
+{/STR}{@:0088}{STR}
+Bring us salvation.
+{/STR}{@:0089}{STR}
+What are you doing?
+{/STR}{@:008A}{STR}
+Dad...
+{/STR}{@:008B}{STR}
+She is nearly here.
+{/STR}{@:008C}{STR}
+What is it?
+{/STR}{@:008D}{STR}
+Alessa, what have you done?
+What did you swallow!?
+{/STR}{@:008E}{STR}
+What is this....!?
+{/STR}{@:008F}{STR}
+Looks like God didn't make it.
+{/STR}{@:0090}{STR}
+Stop!
+{/STR}{@:0091}{STR}
+God is...!
+{/STR}{@:0092}{STR}
+Claudia...
+{/STR}{@:0093}{STR}
+Alessa, you cannot kill God.
+{/STR}{@:0094}{STR}
+I will... I will birth God...
+{/STR}{@:0095}{STR}
+If you can't do it, Alessa, I will...
+{/STR}{@:0096}{STR}
+Claudia?
+{/STR}{@:0097}{STR}
+Claudia!?
+{/STR}{@:0098}{STR}
+"Silent Hill's Ancient Gods: A Study
+of Their Etymology and Evolution."
+What a mouthful!
+{/STR:END}{@:0099}{STR}{AL:VERT}{BLUE}
+There is no religion that has
+remained unchanged from the
+moment it was founded.
+This one is no exception.{WHITE}
+{/STR:NEXT}{STR}{AL:VERT}{BLUE}
+When this religion fell into the
+hands of immigrants, it was deeply
+influenced by their own original
+Christian beliefs.{WHITE}
+{/STR:NEXT}{STR}{AL:VERT}{BLUE}
+For example, the traditional
+representatives of these primal
+gods may be given the names and
+descriptions of Christian angels.
+Thus shared characteristics begin
+to appear.{WHITE}
+{/STR:NEXT}{STR}{AL:VERT}{BLUE}
+(There is also one rare example
+of the chief deity, "Creator of
+Paradise" or "Lord of Serpents
+and Reeds", being dubbed with
+a demon's name. Of course, this
+was not done by believers, but
+by their opponents.){WHITE}
+{/STR:END}{@:009A}{STR}
+There's a book on tarot here.
+{/STR:END}{@:009B}{STR}{AL:VERT}{BLUE}
+Tarot was based on the 22 Hebrew
+consonants and is said to represent
+the entire world.{WHITE}
+{/STR:NEXT}{STR}{AL:VERT}{BLUE}
+Each card, numbered 0 through 21,
+has a particular meaning.
+By reading these cards,
+fortunetellers predict the future.{WHITE}
+{/STR:NEXT}{STR}{AL:VERT}{BLUE}
+For example, the first card, "The
+Magician," signifies creation, wisdom,
+beginnings, or destruction and fraud.
+The second card, "The High Priestess,"
+denotes intuition, harmony, faith, or
+dogmatism and arrogance.{WHITE}
+{/STR:NEXT}{STR}{AL:VERT}{BLUE}
+According to some texts, the
+Gardner deck had more than 22
+cards. (The Gardner deck does not
+exist today; it is mentioned only in
+the literature.){WHITE}
+{/STR:NEXT}{STR}{AL:VERT}{BLUE}
+It is said that these extra cards were
+based on lost Hebrew vowels and
+denoted an otherworldly,
+transcendental existence: i.e., God.{WHITE}
+{/STR:END}{@:009C}{STR}
+There's a musty diary on the bed.
+{/STR:END}{@:009D}{STR}
+This writing... is this Dad's diary?
+Why would it be here...?
+{/STR:NEXT}{STR}{AL:VERT}{BLUE}
+I sometimes have the sense even
+now that, that girl is a reincarnation
+of Alessa.
+I don't worry about it much now.
+That's all forgiven.{WHITE}
+{/STR:NEXT}{STR}{AL:VERT}{BLUE}
+You were unloved, Cheryl...
+Or was that Alessa?
+Now Cheryl is Alessa again.{WHITE}
+{/STR:NEXT}{STR}{AL:VERT}{BLUE}
+No matter whose reincarnation
+she may have been, that girl was
+my most beloved treasure.{WHITE}
+{/STR:NEXT}{STR}{AL:VERT}{BLUE}
+But that name was a mistake.
+At the time I thought of her only as
+a replacement for my lost Cheryl.{WHITE}
+{/STR:NEXT}{STR}{AL:VERT}{BLUE}
+When she knows the truth,
+will she feel bad?
+That's what worries me.{WHITE}
+{/STR:END}{@:009E}{STR}{AL:VERT}{BLUE}
+I sometimes have the sense even
+now that, that girl is a reincarnation
+of Alessa.
+I don't worry about it much now.
+That's all forgiven.{WHITE}
+{/STR:NEXT}{STR}{AL:VERT}{BLUE}
+You were unloved, Cheryl...
+Or was that Alessa?
+Now Cheryl is Alessa again.{WHITE}
+{/STR:NEXT}{STR}{AL:VERT}{BLUE}
+No matter whose reincarnation
+she may have been, that girl was
+my most beloved treasure.{WHITE}
+{/STR:NEXT}{STR}{AL:VERT}{BLUE}
+But that name was a mistake.
+At the time I thought of her only as
+a replacement for my lost Cheryl.{WHITE}
+{/STR:NEXT}{STR}{AL:VERT}{BLUE}
+When she knows the truth,
+will she feel bad?
+That's what worries me.{WHITE}
+{/STR:END}{@:009F}{STR}
+Thanks, Dad.
+{/STR:NEXT}{STR}
+So I was Alessa after all.
+{/STR:NEXT}{STR}
+But I do have just a trace of
+one more memory left.
+{/STR:NEXT}{STR}
+I haven't forgotten my sweet
+and gentle mother.
+{/STR:END}{@:00A0}{STR}
+This room looks just like Dad's.
+It's more than just a resemblance.
+{/STR:NEXT}{STR}
+Dad's not sleeping in the bed,
+though.
+{/STR:END}{@:00A1}{STR}
+None of the books catches my eye.
+{/STR:NEXT}{STR}
+Although the bookshelf and books
+are all the same as Dad's.
+{/STR:END}{@:00A2}{STR}
+Nothing happens when I try to
+turn on the TV or the VCR.
+{/STR:END}{@:00A3}{STR}
+Why bother with the phone?
+I know it's not connected.
+{/STR:END}{@:00A4}{STR}
+There's a mystery novel here.
+It's the same one Dad was reading.
+{/STR:END}{@:00A5}{STR}
+There's something stuck in
+this book.
+{/STR:END}{@:00A6}{STR}
+This book...hmm.
+{/STR:NEXT}{STR}
+I feel like I have to read it, but at
+the same time I don't want to.
+{/STR:END}{@:00A7}{STR}{AL:VERT}{BLUE}
+Aglaophotis{WHITE}
+{/STR:NEXT}{STR}{AL:VERT}{BLUE}
+Red liquid or crystals resembling
+blood. According to the Kabbalah,
+the name is taken from an herb with
+the power to dispel evil spirits. It is
+said to grow in Arabian deserts.{WHITE}
+{/STR:NEXT}{STR}{AL:VERT}{BLUE}
+It may be vaporized or applied as
+a poultice to guard against demons.
+It is powerful, but as it is rare, it is
+extremely difficult to obtain.{WHITE}
+{/STR:END}{@:00A8}{STR}
+Aglaophotis...
+{/STR:NEXT}{STR}
+I must have heard that from
+Dad a long time ago.
+{/STR:END}{@:00A9}{STR}
+It's a picture of me when I was 7.
+{/STR:NEXT}{STR}
+I look bored and sad.
+{/STR:NEXT}{STR}
+Well, of course I do.
+I was always like that back then.
+{/STR:END}{@:00AA}{STR}
+It's a picture of me when I was 7.
+{/STR:END}{@:00AB}{STR}
+Looks like there's some kind of
+drug here.
+{/STR:NEXT}{STR}
+But there's just a name on the label,
+no description or anything.
+It's too risky. Never mind.
+{/STR:END}{@:00AC}{STR}
+There's a picture here, but it's not
+my style at all.
+{/STR:END}{@:00AD}{STR}
+24 years ago, Mo... Dalia used me
+to summon God.
+{/STR:NEXT}{STR}
+God was in my womb, but I
+couldn't deliver Her.
+{/STR:NEXT}{STR}
+Then I was shut up here in this
+hospital room.
+{/STR:NEXT}{STR}
+I stayed here until Dad helped me
+out when I was 14.
+{/STR:NEXT}{STR}
+"God" ate away at me from within,
+driving me mad with suffering.
+{/STR:NEXT}{STR}
+There I was, wishing I could just die
+and be done with it...
+{/STR:NEXT}{STR}
+But I went on living that nightmare
+for seven years.
+{/STR:NEXT}{STR}
+Looking at this bed just reminds
+me of those awful days.
+{/STR:NEXT}{STR}
+And I don't want to remember them.
+Because I'm not Alessa anymore...
+{/STR:NEXT}{STR}
+But Alessa is still me. I'm really not
+trying to deny it or anything...
+{/STR:END}{@:00AE}{STR}
+I just... don't want to remember.
+Get me out of here.
+{/STR:END}{@:00AF}{STR}
+This is my sketchbook,
+from 17 years ago.
+{/STR:NEXT}{STR}
+On the front cover here is a picture
+of Dad. Really awful work.
+{/STR:NEXT}{STR}
+What's this doing here?
+{/STR:END}{@:00B0}{STR}{AL:VERT}{BLUE}
+The door sure does rattle,
+  but it's stuck tight.
+A secret is hidden out
+  of your sight!
+You may be thinking,
+  "What could it be?"
+You'll need five magic cards
+  if you want to see.{WHITE}
+{/STR:NEXT}{STR}{AL:VERT}{BLUE}
+What to do, then,
+  with all these?
+I'll tell you straight
+  and I won't tease--
+Just as long as
+  you say "please".{WHITE}
+{/STR:NEXT}{STR}{AL:VERT}{BLUE}
+Now the first thing you must know
+Is that there's something
+  in each row.
+But that is not the half of it:
+Three would be too hard to fit.{WHITE}
+{/STR:NEXT}{STR}{AL:VERT}{BLUE}
+The upside-down man
+  under the ground:
+To his right, to his left,
+  there's no one around.
+Leave him alone, though
+  his tears are profound.{WHITE}
+{/STR:NEXT}{STR}{AL:VERT}{BLUE}
+The moon is up above the sky,
+Full or crescent, floating high.
+Twinkling light sits like a crown
+On the head of a crazy clown.{WHITE}
+{/STR:NEXT}{STR}{AL:VERT}{BLUE}
+Your Excellency,
+  praying to God most high
+Do you think you
+  can tell me why
+You always look up
+  at the night sky?{WHITE}
+{/STR:NEXT}{STR}{AL:VERT}{BLUE}
+Do you have it now?
+  You didn't forget?
+One major point you
+  must not omit.
+And now at the last,
+  before you take a whack
+Here's one more hint to
+  help keep you on track.{WHITE}
+{/STR:NEXT}{STR}{AL:VERT}{BLUE}
+Scary and hateful, that
+  thing in the night
+Better be careful --
+  it's not on your right!
+Turn to the left and
+  you'll keep it in sight.{WHITE}
+{/STR:NEXT}{STR}{AL:VERT}{BLUE}
+So you'll open the door?
+  I'm just sure that there'll
+Be nothing beyond it but
+  frightening peril.
+Forget about that!
+  Just stay and play!
+Or else I'll be left
+  here alone all day.{WHITE}
+{/STR:END}{@:00B1}{STR}{AL:VERT}{BLUE}
+I had a dream.
+In my dream, I opened a door.
+But was that really me?
+I had a different name.{WHITE}
+{/STR:END}{@:00B2}{STR}{AL:VERT}{BLUE}
+5 are true and 4 are lies---
+and there are some fibs mixed
+in with the truth.{WHITE}
+{/STR:NEXT}{STR}{AL:VERT}{BLUE}
+That's 'cause it's scary to write
+only the truth.
+But dreams...dreams are like lies,
+after all.{WHITE}
+{/STR:END}{@:00B3}{STR}
+Where will you place the Tarot card?
+{/STR:END}{@:00B4}{STR}
+Remove which Tarot card?
+{/STR:END}{@:00B5}{STR}
+I've come this far... I can't run
+away now.
+{/STR:END}{@:00B6}{STR}
+Claudia...
+{/STR:END}{@:00B7}{STR}
+Vincent's dead.
+{/STR:NEXT}{STR}
+I hated him too, but it doesn't mean
+this makes me happy.
+{/STR:NEXT}{STR}
+Why couldn't I have stopped
+Claudia...?
+{/STR:END}{@:00B8}{STR}
+Vincent's dead.
+{/STR:END}{@:00B9}{STR}
+There's a hole in the floor.
+I don't care about that right now.
+{/STR:END}{@:00BA}{STR}
+I want to get out of here, but
+I just can't. This is for Dad...
+and for myself.
+{/STR:NEXT}{STR}
+And... for Claudia, too.
+{/STR:END}{@:00BB}{STR}
+The door's open. Inside there's
+someone wrapped in a bag.
+{/STR:NEXT}{STR}
+Maybe--no, they're definitely dead.
+{/STR:END}{@:00BC}{STR}
+One wall is covered with what
+looks like lockers. Inside... uh...
+no. Never mind.
+{/STR:NEXT}{STR}
+With this rotting stench throughout
+the place, anyone can guess what's
+inside.
+{/STR:NEXT}{STR}
+I'll just want to puke if I take a look.
+{/STR:END}{@:00BD}{STR}
+There's nothing worthwhile here.
+{/STR:END}{@:00BE}{STR}
+A corpse wrapped in some
+vinyl-type bag.
+{/STR:NEXT}{STR}
+This crazy mixed-up world has got
+me used to the strangest things.
+{/STR:NEXT}{STR}
+Easy for me to say.
+They're still totally disgusting.
+{/STR:NEXT}{STR}
+I feel like I'm gonna go crazy
+myself sooner or later.
+{/STR:NEXT}{STR}
+I might even already be crazy.
+Who knows?
+{/STR:END}{@:00BF}{STR}
+A corpse wrapped in some
+vinyl-type bag.
+{/STR:END}{@:00C0}{STR}
+All these bodies on the floor,
+wrapped in plastic...
+What a nightmare.
+{/STR:NEXT}{STR}
+I'm just glad they don't seem about
+to get up any time soon.
+{/STR:END}{@:00C1}{STR}
+There's nothing important here.
+I haven't looked too closely, though.
+{/STR:NEXT}{STR}
+I don't think I want to.
+{/STR:END}{@:00C2}{STR}
+I--no, it wasn't me.
+Alessa wrote this a long time ago.
+{/STR:NEXT}{STR}
+That chapel altar...
+{/STR:NEXT}{STR}
+It wasn't that one beautiful chapel.
+It was some other altar somewhere
+else.
+{/STR:END}{@:00C3}{STR}
+My clothes, from when I was 7.
+They don't fit me now.
+{/STR:NEXT}{STR}
+Good thing, too.
+{/STR:END}{@:00C4}{STR}
+This is a closet.
+It's meaningless to me.
+{/STR:NEXT}{STR}
+I don't have time to wax nostalgic
+over these old clothes.
+{/STR:END}{@:00C5}{STR}
+The scribbling on the floor here is
+Alessa's.
+{/STR:NEXT}{STR}
+For some reason, she always drew
+monsters like this when she was
+alone.
+{/STR:NEXT}{STR}
+She used to draw with Claudia, too.
+{/STR:NEXT}{STR}
+A nice daddy and mommy and
+a fun school...
+{/STR:NEXT}{STR}
+A happy world where everyone
+smiled and laughed all day long.
+{/STR:NEXT}{STR}
+In short, everything we never had...
+{/STR:END}{@:00C6}{STR}
+The scribbling on the floor here is
+Alessa's.
+{/STR:NEXT}{STR}
+For some reason, she always drew
+monsters like this when she was
+alone.
+{/STR:END}{@:00C7}{STR}
+Hmm, this is some sort of
+landscape. Where is it from again?
+{/STR:NEXT}{STR}
+Well, it doesn't matter.
+{/STR:END}{@:00C8}{STR}
+There are playing cards on the floor.
+I used to play a lot.
+{/STR:NEXT}{STR}
+I remember little Claudia always
+had a hard time winning.
+That made her cry.
+{/STR:END}{@:00C9}{STR}
+I used to take these dolls with me
+when I went to bed.
+{/STR:NEXT}{STR}
+Scarlett and...
+Damn, I forgot the other one's name.
+{/STR:NEXT}{STR}
+In fact, I don't even know which
+one is Scarlett.
+{/STR:END}{@:00CA}{STR}
+Hmm, a memo book.
+Something's written inside.
+{/STR:NEXT}{STR}{AL:VERT}{BLUE}
+She's just beyond this door.
+I don't know how, but I can sense it.{WHITE}
+{/STR:NEXT}{STR}{AL:VERT}{BLUE}
+But she's not the only one there.
+I sense the presence of something
+extremely dangerous, even sickening
+... or maybe what they call "God".{WHITE}
+{/STR:NEXT}{STR}{AL:VERT}{BLUE}
+Nevertheless, I will open the door.
+Enough of this idle chit-chat.
+"God" I'm not, but I fully intend
+to save her... no, them.{WHITE}
+{/STR:NEXT}{STR}
+The last entry was written some 17 years ago.
+{/STR:NEXT}{STR}
+And here's Dad's signature.
+What's this memo book doing here?
+{/STR:END}{@:00CB}{STR}
+Hmm, a memo book.
+Something's written inside.
+{/STR:NEXT}{STR}{AL:VERT}{BLUE}
+She's just beyond this door.
+I don't know how, but I can sense it.{WHITE}
+{/STR:NEXT}{STR}{AL:VERT}{BLUE}
+But she's not the only one there.
+I sense the presence of something
+extremely dangerous, even sickening
+... or maybe what they call "God".{WHITE}
+{/STR:NEXT}{STR}{AL:VERT}{BLUE}
+Nevertheless, I will open the door.
+Enough of this idle chit-chat.
+"God" I'm not, but I fully intend
+to save her... no, them.{WHITE}
+{/STR:NEXT}{STR}
+The last entry was written some 17 years ago.
+{/STR:NEXT}{STR}
+It looks like Dad wrote this, too.
+{/STR:END}{@:00CC}{STR}
+The shelves are jammed with books.
+{/STR:NEXT}{STR}
+The top shelf has books on religious
+teachings and textbooks--serious
+stuff.
+{/STR:NEXT}{STR}
+The other two shelves are full of
+fairy tale books, like Oz and Alice.
+{/STR:NEXT}{STR}
+Here's Mother Goose and
+Cinderella. I used to love these.
+{/STR:END}{@:00CD}{STR}
+The shelves are jammed with books.
+{/STR:END}{@:00CE}{STR}
+There's a sheet of paper here,
+but it's blank.
+{/STR:END}{@:00CF}{STR}
+"Tome of the Seer."
+Sounds like an occult book.
+{/STR:NEXT}{STR}
+I don't need this now.
+It's not my taste, anyway.
+{/STR:END}{@:00D0}{STR}
+These books look like real
+mind-benders. Think I'll leave
+them alone for now.
+{/STR:END}{@:00D1}{STR}
+There's a memo stuck in this book.
+{/STR:NEXT}{STR}{BLUE}
+The first number is
+"the traveller to St. Ives."{WHITE}
+{/STR:END}{@:00D2}{STR}
+There's a memo stuck in this book.
+{/STR:NEXT}{STR}{BLUE}
+The second number is
+"the hare wear a crown of straw."{WHITE}
+{/STR:END}{@:00D3}{STR}
+There's a memo stuck in this book.
+{/STR:NEXT}{STR}{BLUE}
+The third number is "king of beasts
+and goddess of harvests."{WHITE}
+{/STR:END}{@:00D4}{STR}
+There's a memo stuck in this book.
+{/STR:NEXT}{STR}{BLUE}
+The fourth number is "representative
+of both knight and page."{WHITE}
+{/STR:END}{@:00D5}{STR}
+There's a memo stuck in this book.
+{/STR:NEXT}{STR}{BLUE}
+The fifth number is
+"lapis lazuli or turquoise."{WHITE}
+{/STR:END}{@:00D6}{STR}
+There's a memo stuck in this book.
+{/STR:NEXT}{STR}{BLUE}
+There's no separating numbers from
+beginning to end.{WHITE}
+{/STR:END}{@:00D7}{STR}
+There's a memo stuck in this book.
+{/STR:NEXT}{STR}{BLUE}
+14 buttons all told; therefore, one
+is always two.{WHITE}
+{/STR:END}{@:00D8}{STR}
+There's a memo stuck in this book.
+{/STR:NEXT}{STR}{BLUE}
+A secret told before you awake:
+the start of a new transformation.{WHITE}
+{/STR:END}{@:00D9}{STR}
+There's a book inside the box.
+No useful items, though.
+{/STR:END}{@:00DA}{STR}
+There's a huge fan here.
+I can't get through.
+{/STR:END}{@:00DB}{STR}{POSY1:28}{BLUE}
+"Eye of Night" tarot card{WHITE}
+{/STR}{@:00DC}{STR}{POSY1:28}{BLUE}
+"Moon" tarot card{WHITE}
+{/STR}{@:00DD}{STR}
+I got the {GREEN}"Moon" tarot card{WHITE}.
+{/STR:END}{@:00DE}{STR}
+I got the {GREEN}book: Otherworld Laws{WHITE}.
+{/STR:END}{@:00DF}{STR}{POSY1:28}{BLUE}
+"Hanged Man" tarot card{WHITE}
+{/STR}{@:00E0}{STR}
+I got the {GREEN}"Hanged Man" tarot card{WHITE}.
+{/STR:END}{@:00E1}{STR}
+I got a {GREEN}brass key{WHITE}.
+{/STR:END}{@:00E2}{STR}{POSY1:28}{BLUE}
+"High Priestess" tarot card{WHITE}
+{/STR}{@:00E3}{STR}{POSY1:28}{BLUE}
+"Fool" tarot card{WHITE}
+{/STR}{@:00E4}{STR}
+I got the {GREEN}"Fool" tarot card{WHITE}.
+{/STR:END}{@:00E5}{STR}{AL:HORZ}{POSY1:28}{BLUE}
+"Eye of Night" tarot card{WHITE}
+{/STR}{@:00E6}{STR}{AL:HORZ}{POSY1:28}{BLUE}
+"Moon" tarot card{WHITE}
+{/STR}{@:00E7}{STR}{AL:HORZ}{POSY1:28}{BLUE}
+"Hanged Man" tarot card{WHITE}
+{/STR}{@:00E8}{STR}{AL:HORZ}{POSY1:28}{BLUE}
+"High Priestess" tarot card{WHITE}
+{/STR}{@:00E9}{STR}{AL:HORZ}{POSY1:28}{BLUE}
+"Fool" tarot card{WHITE}
+{/STR}{@:00EA}{/MES:00CC}
