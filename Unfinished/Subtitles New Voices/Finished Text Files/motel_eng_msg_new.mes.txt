@@ -1,0 +1,227 @@
+{MES:0050}{STR}
+It's locked.
+{/STR:END}{@:0000}{STR}
+It's unlocked.
+{/STR:END}{@:0001}{STR}
+The lock is broken.
+I can't open the door.
+{/STR:END}{@:0002}{STR}
+The door's shut tight.
+It won't open at all.
+{/STR:END}{@:0003}{STR}
+It doesn't even look like this
+door will open. Never mind.
+{/STR:END}{@:0004}{STR}
+No matter how much I try to force
+it, the door won't open. Never mind.
+{/STR:END}{@:0005}{STR}
+It's too dark to read the map.
+{/STR:END}{@:0006}{STR}
+I don't have a map of this area.
+{/STR:END}{@:0007}{STR}
+I've seen this pattern somewhere.
+And not just now, either.
+{/STR:NEXT}{STR}
+A long time ago...when was it?
+And where?
+{/STR:NEXT}{STR}
+And...why does my head hurt so
+much when I try to remember it?
+{/STR:END}{@:0008}{STR}
+It's like a magic circle I remember
+reading about in a book on black
+magic.
+{/STR:NEXT}{STR}
+Does it seem so familiar because
+I read about it in that book?
+{/STR:NEXT}{STR}
+No, that's not it.... It's not the
+book... It's from the altar......
+{/STR:NEXT}{STR}
+Altar? What am I thinking?
+{/STR:END}{@:0009}{STR}
+This again....
+{/STR:NEXT}{STR}
+Looking at it makes my head hurt,
+but at the same time, it's like,
+so familiar....
+{/STR:NEXT}{STR}
+I know I've forgotten something
+really important.....
+{/STR:NEXT}{STR}
+But I also have the feeling that I'd
+be better off not remembering it.
+{/STR:END}{@:000A}{STR}
+I got a {GREEN}stun gun battery{WHITE}.
+{/STR:END}{@:000B}{STR}
+I got {GREEN}handgun bullets{WHITE}.
+{/STR:END}{@:000C}{STR}
+I got {GREEN}shotgun shells{WHITE}.
+{/STR:END}{@:000D}{STR}
+I got {GREEN}submachine gun bullets{WHITE}.
+{/STR:END}{@:000E}{STR}
+I got a {GREEN}health drink{WHITE}.
+{/STR:END}{@:000F}{STR}
+I got a {GREEN}first-aid kit{WHITE}.
+{/STR:END}{@:0010}{STR}
+I got an {GREEN}ampoule{WHITE}.
+{/STR:END}{@:0011}{STR}
+I got {GREEN}beef jerky{WHITE}.
+{/STR:END}{@:0012}{STR}
+Yes.
+{/STR}{@:0013}{STR}
+No.
+{/STR}{@:0014}{STR}{AL:VERT}
+Paused
+{/STR}{@:0015}{STR}{AL:VERT}
+Insert the analog controller
+(DUALSHOCK®2) into
+controller port 1
+{/STR}{@:0016}{STR}{AL:VERT}{RED}
+Save Game feature not available
+on trial version.{WHITE}
+{/STR:END}{@:0017}{STR}{RED}
+Now Making...{WHITE}
+{/STR:END}{@:0018}{STR}
+I'm gonna head for that Leonard
+guy's house. You check out the
+hospital.
+{/STR}{@:0019}{STR}
+You got that map, right?
+{/STR}{@:001A}{STR}
+Yeah.
+{/STR}{@:001B}{STR}
+You gonna be okay alone?
+{/STR}{@:001C}{STR}
+I'm not a child, you know.
+{/STR}{@:001D}{STR}
+Are you sure it's not you who's
+afraid to be alone?
+{/STR}{@:001E}{STR}
+You're right, I am afraid.
+{/STR}{@:001F}{STR}
+I'm 50 something years old, and
+I never seen nothing like this.
+{/STR}{@:0020}{STR}
+I feel like I'm dreamin".
+{/STR}{@:0021}{STR}
+More like a nightmare, I'd say.
+{/STR}{@:0022}{STR}
+Yeah, I wanna wake up and have
+a smoke already.
+{/STR}{@:0023}{STR}
+Meet me back here when you're
+finished looking around the hospital,
+OK?
+{/STR}{@:0024}{STR}
+Roger.
+{/STR}{@:0025}{STR}
+Why did you send her to my father?
+{/STR}{@:0026}{STR}
+Was that wrong?
+{/STR}{@:0027}{STR}
+It's your fault that he...
+{/STR}{@:0028}{STR}
+But surely it's a good thing. It means
+he was one of God's beloved, no?
+{/STR}{@:0029}{STR}
+Those who mock God will never
+receive salvation. 
+{/STR}{@:002A}{STR}
+You'll go to Hell, Vincent.
+{/STR}{@:002B}{STR}
+You'll never feel the joy of God's
+everlasting paradise.
+{/STR}{@:002C}{STR}
+And you think God is going to save
+you? Ha!
+{/STR}{@:002D}{STR}
+What do you know anyway!?
+{/STR}{@:002E}{STR}
+I know about the pleasures
+of this world.
+{/STR}{@:002F}{STR}
+And I want to find my happiness
+while I'm still here.
+{/STR}{@:0030}{STR}
+You hated your father, didn't you?
+{/STR}{@:0031}{STR}
+I saw the way he hit you, kicked you,
+and made you cry.
+{/STR}{@:0032}{STR}
+The memory of his cruelty is forever
+burned into my mind.
+{/STR}{@:0033}{STR}
+Yes, yes.
+And that's why we need God.
+{/STR}{@:0034}{STR}
+What you call 'faith' is nothing more
+than a child crying out for love.
+{/STR}{@:0035}{STR}
+That's why you're all alone.
+{/STR}{@:0036}{STR}
+You don't understand. 
+None of you do.
+{/STR}{@:0037}{STR}
+Where's Douglas?
+{/STR}{@:0038}{STR}
+He went out.
+{/STR}{@:0039}{STR}
+But he left a message for you.
+{/STR}{@:003A}{STR}
+Was there someone else here
+just now?
+{/STR}{@:003B}{STR}
+No, no, just me.
+{/STR}{@:003C}{STR}
+Don't you want to know what the
+message is?
+{/STR}{@:003D}{STR}
+Yeah, what did he say?
+{/STR}{@:003E}{STR}
+"The church is on the other side
+of the lake."
+{/STR}{@:003F}{STR}
+Church...?
+I wonder what he meant by that.
+{/STR}{@:0040}{STR}
+You don't understand?
+{/STR}{@:0041}{STR}
+That's where Claudia is.
+{/STR}{@:0042}{STR}
+Across the lake, on the north side.
+{/STR}{@:0043}{STR}
+If you're going, you'd better go
+through the amusement park. 
+{/STR}{@:0044}{STR}
+It's probably the only way in now.
+{/STR}{@:0045}{STR}
+Go northwest on Nathan Avenue.
+It's a bit far, but closer than heaven.
+{/STR}{@:0046}{STR}
+Is that it for the message?
+{/STR}{@:0047}{STR}
+Uh huh.
+{/STR}{@:0048}{STR}
+Thanks.
+{/STR}{@:0049}{STR}
+Douglas really said that?
+{/STR}{@:004A}{STR}
+What's wrong, you don't trust me?
+{/STR}{@:004B}{STR}
+I'm tired, but it's no time to sleep.
+{/STR:NEXT}{STR}
+I'm gonna head for the hospital.
+{/STR:END}{@:004C}{STR}
+That's the bathroom.
+I don't need to use it right now.
+{/STR:END}{@:004D}{STR}
+There's no point in turning on the
+TV. All I could watch is "snow"
+anyway.
+{/STR:END}{@:004E}{STR}
+That's got to be a coincidence.
+{/STR:NEXT}{STR}
+But still, that's pretty weird...
+Who could have done this...?
+{/STR:END}{@:004F}{/MES:0017}
