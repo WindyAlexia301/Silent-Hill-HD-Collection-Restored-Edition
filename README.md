@@ -4,7 +4,7 @@ A Fan-Made Patches That Fix The Hijinx Studios Shit (W.I.P)
 # Owners:
 **· DanielaPC**
 -**Idmus00**
-
+-**MarioTainaka**
 
 
 # Inspiration:
@@ -13,7 +13,7 @@ A Fan-Made Patches That Fix The Hijinx Studios Shit (W.I.P)
 -**Idmus00**
 -**LevinStreet**
 -**RE4 HD Project Team**
--**MarioTainaka**
+
 
 
 
